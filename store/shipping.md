@@ -2,7 +2,7 @@
 title: Shipping
 description: 
 published: true
-date: 2023-02-28T17:11:30.146Z
+date: 2023-02-28T17:16:02.504Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T20:24:20.200Z
@@ -36,4 +36,10 @@ Overnight transit is sent either USPS Priority Express or Fedex Overnight depend
 3 day shipping is sent either USPS Priority Mail or USPS First Class depending on weight. This is typically the cheapest option for customers located on the east coast.
 
 ## 5 Days
-3 day shipping is sent USPS Retail Ground. This is typically the cheapest option for customer located on the west coast.
+5 day shipping is sent USPS Retail Ground. This is typically the cheapest option for customer located on the west coast.
+
+# Packaging
+All packaging used by the Occoneechee Lodge Trading Post is 100% recyclible; this includes the bubble mailers. Please join us in reducing waist by recycling your packaging once you receive your items. Additional information is included on the back or bottom of your packagining.
+
+# Damaged Goods
+If your items arrive damaged or dirty, please don't hesitate to reach out and we'll resolve this issue. You can submit a support ticket at our [help desk](https://support.lodge104.net).
